@@ -16,6 +16,9 @@
         <classes>
 
             <class name="CignaHomePageTest"/>
+            <class name="CignaNavicationTabTest"/>
+            <class name="CignaHealthCovTest"/>
+
 
         </classes>
     </test>
