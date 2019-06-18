@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
-<suite name="Cigna Automation Script " parallel="methods" thread-count="4">
+<suite name="Amazon Automation Script " parallel="methods" thread-count="4">
 
     <parameter name="platform" value="mac"/>
     <parameter name="useCloudEnv" value="false"/>
@@ -10,17 +10,17 @@
     <parameter name="os_version" value="Sierra"/>
     <parameter name="browserName" value="chrome"/>
     <parameter name="browserVersion" value="53.0"/>
-    <parameter name="url" value="https://www.cigna.com"/>
+    <parameter name="url" value="https://www.amazon.com"/>
 
-    <test name=" Cigna Home">
+    <test name=" Amazon Home">
         <classes>
 
-            <class name="CignaHomePageTest"/>
-            <class name="CignaNavicationTabTest"/>
-            <class name="CignaHealthCovTest"/>
-            <class name="CignaGlobalProductTest"/>
-
+            <class name="AmazonHomePageTest"/>
 
         </classes>
     </test>
 </suite>
+
+
+
+
