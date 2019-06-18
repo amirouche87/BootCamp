@@ -16,6 +16,7 @@
         <classes>
 
             <class name="CnnHomePageTest"/>
+            <class name="CnnVerifyPageTest"/>
 
         </classes>
     </test>
