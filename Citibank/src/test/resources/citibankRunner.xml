@@ -15,7 +15,7 @@
     <test name=" Citibank Home">
         <classes>
 
-            <class name=""/>
+            <class name="CitibankHomePageTest"/>
 
         </classes>
     </test>

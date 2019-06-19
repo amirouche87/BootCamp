@@ -16,6 +16,10 @@
         <classes>
 
             <class name="AmazonHomePageTest"/>
+            <!--<class name="AccountTest"/>
+            <class name="AutoSuggestionTest"/>
+            <class name="BrowsingProductTest"/>
+            <class name="VerifyingItemTest"/>-->
 
         </classes>
     </test>
